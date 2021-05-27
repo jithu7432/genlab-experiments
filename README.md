@@ -1,1 +1,1 @@
-## General Physics Lab Experiments of S1 & S2, National Institute of Technology, Agartala.
+## General Physics Lab Experiments of Master in Physics course, National Institute of Technology, Agartala.
